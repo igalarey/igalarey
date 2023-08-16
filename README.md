@@ -1,26 +1,18 @@
 <h1 align="left">Hola 👋</h1>
 
-###
-
 <p align="left">Me llamo Imanol y soy un desarrollador web en proceso.</p>
-
-###
 
 <h2 align="left">Situación actual</h2>
 
-###
+- 🔭 Trabajando en mejorar [mi porfolio](https://xxxxx.xxx/)
 
- 🔭 Trabajando en mejorar [mi porfolio](https://igalarey.com)
+- 🌱 Aprendiendo sobre **HTML, CSS y JAVASCRIPT**
 
- 🌱 Aprendiendo sobre **HTML, CSS y JAVASCRIPT**
+- 👨‍💻 Todos mis proyectos en [xxxxx.xxx/](https://xxxxx.xxx/)
 
- ❓ Preguntame cualquier cosa en **igalarey@gmail.com**
-
-###
+- ❓ Preguntame cualquier cosa en **igalarey@gmail.com**
 
 <h2 align="left">Tecnologías que he usado alguna vez</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -45,5 +37,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
 </div>
-
-###
