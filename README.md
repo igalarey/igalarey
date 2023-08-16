@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🔭 Trabajando en mejorar mi portfolio<br>🌱 Aprendiendo sobre los principales lenguajes de programación web<br>❓ Preguntame cualquier cosa en igalarey@gmail.com</p>
+ 🔭 Trabajando en mejorar [mi porfolio](https://igalarey.com)
+
+ 🌱 Aprendiendo sobre **HTML, CSS y JAVASCRIPT**
+
+ ❓ Preguntame cualquier cosa en **igalarey@gmail.com**
 
 ###
 
