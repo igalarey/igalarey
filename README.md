@@ -4,11 +4,13 @@
 
 <h2 align="left">Situación actual</h2>
 
-- 🔭 Trabajando en mejorar [mi porfolio](https://xxxxx.xxx/)
+- 🔭 Trabajando en mejorar [mi porfolio](https://igalarey.github.io/portfolio/
+)
 
 - 🌱 Aprendiendo sobre **HTML, CSS y JAVASCRIPT**
 
-- 👨‍💻 Todos mis proyectos en [xxxxx.xxx/](https://xxxxx.xxx/)
+- 👨‍💻 Todos mis proyectos en [igalarey.com](https://igalarey.github.io/portfolio/
+)
 
 - ❓ Preguntame cualquier cosa en **igalarey@gmail.com**
 
