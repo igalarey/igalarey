@@ -4,13 +4,11 @@
 
 <h2 align="left">Situación actual</h2>
 
-- 🔭 Trabajando en mejorar [mi porfolio](https://igalarey.github.io/portfolio/
-)
+- 🔭 Trabajando en mejorar [mi porfolio](https://portfolio-mu-self-26.vercel.app/)
 
 - 🌱 Aprendiendo sobre **HTML, CSS y JAVASCRIPT**
 
-- 👨‍💻 Todos mis proyectos en [igalarey.com](https://igalarey.github.io/portfolio/
-)
+- 👨‍💻 Todos mis proyectos en [igalarey.com](https://portfolio-mu-self-26.vercel.app/)
 
 - ❓ Preguntame cualquier cosa en **igalarey@gmail.com**
 
