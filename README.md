@@ -1,6 +1,7 @@
 <h1 align="left">Hola 👋</h1>
 
-<p align="left">Me llamo Imanol y soy un desarrollador web en proceso.</p>
+<p align="left">Soy un desarrollador web apasionado de la informática que disfruta programando tanto front como back. <br>
+Estoy interesado en aprender nuevos lenguajes y en ampliar mis habilidades en los que ya conozco. </p>
 
 <h2 align="left">Situación actual</h2>
 
@@ -8,7 +9,7 @@
 
 - 🌱 Aprendiendo sobre **HTML, CSS y JAVASCRIPT**
 
-- 👨‍💻 Todos mis proyectos en [igalarey.com](https://portfolio-mu-self-26.vercel.app/)
+- 👨‍💻 Conoce más acerca de mí en [igalarey.com](https://portfolio-mu-self-26.vercel.app/)
 
 - ❓ Preguntame cualquier cosa en **igalarey@gmail.com**
 
@@ -18,6 +19,8 @@
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
