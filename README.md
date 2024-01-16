@@ -5,9 +5,9 @@ Estoy interesado en aprender nuevos lenguajes y en ampliar mis habilidades en lo
 
 <h2 align="left">Situación actual</h2>
 
-- 🔭 Trabajando en mejorar [mi porfolio](https://portfolio-v2-flame-alpha.vercel.app/)
+- 🔭 Aquí puedes ver [mi porfolio](https://portfolio-v2-flame-alpha.vercel.app/)
 
-- 🌱 Aprendiendo sobre **HTML, CSS y JAVASCRIPT**
+- 🌱 Aprendiendo sobre desarrollo web
 
 - 👨‍💻 Conoce más acerca de mí en [igalarey.com](https://portfolio-v2-flame-alpha.vercel.app/)
 
