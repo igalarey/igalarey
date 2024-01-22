@@ -5,7 +5,7 @@ Estoy interesado en aprender nuevos lenguajes y en ampliar mis habilidades en lo
 
 <h2 align="left">Situación actual</h2>
 
-- 🔭 Aquí puedes ver [mi porfolio](https://portfolio-v2-flame-alpha.vercel.app/)
+- 🔭 Aquí puedes ver [mi portfolio](https://portfolio-v2-flame-alpha.vercel.app/)
 
 - 🌱 Aprendiendo sobre desarrollo web
 
