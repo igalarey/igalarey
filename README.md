@@ -5,9 +5,9 @@ Interesado en aprender nuevos lenguajes y en ampliar conocimiento en los ya cono
 
 <h2 align="left">Más</h2>
 
-- 🔭 Aquí puedes ver [mi portfolio](https://portfolio-v2-flame-alpha.vercel.app/)
+- 🔭 Aquí puedes ver [mi portfolio](https://portfolio-v3-dpugjjwzx-igalareys-projects.vercel.app/)
 
-- 👨‍💻 Conoce más en [igalarey.com](https://portfolio-v2-flame-alpha.vercel.app/)
+- 👨‍💻 Conoce más en [igalarey.com](https://portfolio-v3-dpugjjwzx-igalareys-projects.vercel.app/)
 
 - ❓ Contacta conmigo en **igalarey@gmail.com**
 
