@@ -1,7 +1,6 @@
 <h1 align="left">Perfil</h1>
 
-<p align="left">Desarrollador web que disfruta programando tanto front como back. <br>
-Interesado en aprender nuevos lenguajes y en ampliar conocimiento en los ya conocidos. </p>
+<p align="left">Actualmente estoy centrado en convertirme en desarrollador full stack, aprendiendo nuevos lenguajes y especializandome en ellos. </p>
 
 <h2 align="left">Más</h2>
 
